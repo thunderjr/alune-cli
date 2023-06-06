@@ -36,5 +36,6 @@ import {
       inject: ['COMMAND_EXECUTOR_TOOL'],
     },
   ],
+  exports: [LANGCHAIN_COMMAND_AGENT_TOKEN],
 })
 export class LangChainModule {}
