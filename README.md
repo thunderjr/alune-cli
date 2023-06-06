@@ -1,8 +1,6 @@
-<img width="256" height="256" src="https://images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt980498ed37e23691/5ff61c6f396e65084a9e9115/7_Gift_from_Beyond_03MT215_Card_Art.png" />
-
 # Alune
 
-Alune is an AI-powered toolchain designed to help users navigate their daily tasks with ease by leveraging the power of their computer environment. Currently in development, this app aims to channel the supportive and empowering spirit of Alune, inspired by the character from League of Legends, guiding you as you conquer your daily challenges. Alune is a CLI tool, with plans to evolve into a web app in the future.
+| Alune is an AI-powered toolchain designed to help users navigate their daily tasks with ease by leveraging the power of their computer environment. Currently in development, this app aims to channel the supportive and empowering spirit of Alune, inspired by the Aphelios's sister from League of Legends, guiding you as you conquer your daily challenges. Alune is a CLI tool, with plans to evolve into a web app in the future. | <img width="256" height="256" src="https://images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt980498ed37e23691/5ff61c6f396e65084a9e9115/7_Gift_from_Beyond_03MT215_Card_Art.png" /> |
 
 ## Features
 
